@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm paranmanjann</h1>
+<h1 align="center">Hi 👋, I'm prmj</h1>
 <p align="left">
 </p>
